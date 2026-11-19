@@ -13,7 +13,7 @@ I build and deploy web applications end to end: the interface, the API, the data
 ## 🧑‍💻 About Me
 
 - 🔭 **Main project:** an internal **Performance Appraisal System**. It has a React + TypeScript frontend and a Python FastAPI backend, uses MySQL, and is deployed with Docker Compose behind Apache / Nginx.
-- ⚙️ **Automation:** automated frontend and backend regression testing, plus file-processing tools that generate integrity hashes and encrypt data.
+- ⚙️ **Automation:** n8n workflows for PDF reporting, HR approvals and IoT sensor monitoring; automated frontend and backend regression testing; and file-processing tools that generate integrity hashes and encrypt data.
 - 🖥️ **System engineering:** containerised deployment, reverse-proxy setup and frontend serving.
 - 📚 **Also on GitHub:** projects in **Java Spring Boot**, **PHP** and **Node.js / Express**.
 
@@ -87,6 +87,7 @@ An IoT system that counts visitors automatically and shows real-time crowd infor
 
 | Project | Description | Stack |
 |---|---|---|
+| [**n8n-automation-workflows**](https://github.com/hasrinah/n8n-automation-workflows) | n8n workflows: daily QC reports turned into PDFs and sent to Telegram, an early-leave approval flow with Approve/Reject email buttons, and hourly IoT temperature monitoring from InfluxDB | n8n · JavaScript · MySQL · InfluxDB · Google Sheets · Gmail · Telegram |
 | [**Customerapp**](https://github.com/hasrinah/Customerapp) | One-page customer management (CRUD) app with a layered controller → service → repository design and MySQL persistence | Java 17 · Spring Boot · Spring Data JPA · Thymeleaf · MySQL · Maven |
 | [**secure-db-file**](https://github.com/hasrinah/secure-db-file) | Takes pipe-delimited `.unl` data files, writes per-field MD5 integrity files, encrypts each field with AES-256-CBC (OpenSSL) and shows decrypted records in a paginated DataTables view | PHP · OpenSSL · jQuery · DataTables |
 | [**resume-analyzer**](https://github.com/hasrinah/resume-analyzer) | Node.js API that accepts PDF résumé uploads and extracts their text | Node.js · Express · Multer · pdf-parse |
@@ -103,7 +104,7 @@ An IoT system that counts visitors automatically and shows real-time crowd infor
 | **Database** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) |
 | **DevOps & Infrastructure** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Docker Compose](https://img.shields.io/badge/Docker_Compose-2496ED?style=flat-square&logo=docker&logoColor=white) ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white) ![Apache](https://img.shields.io/badge/Apache-D22128?style=flat-square&logo=apache&logoColor=white) |
 | **IoT & Cloud** | ![Arduino](https://img.shields.io/badge/Arduino-00878F?style=flat-square&logo=arduino&logoColor=white) ![NodeMCU ESP8266](https://img.shields.io/badge/NodeMCU_ESP8266-E7352C?style=flat-square&logo=espressif&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&logo=firebase&logoColor=white) |
-| **Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white) |
+| **Tools** | ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white) |
 
 ---
 
