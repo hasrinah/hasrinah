@@ -67,6 +67,7 @@ flowchart LR
 *Final Year Project · IoT*
 
 An IoT system that counts visitors automatically and shows real-time crowd information, to help manage visitor flow.
+<img width="810" height="1080" alt="image" src="https://github.com/user-attachments/assets/cabe4883-9a22-489f-9b95-e04649b94be7" />
 
 ![Arduino](https://img.shields.io/badge/Arduino-00878F?style=flat-square&logo=arduino&logoColor=white)
 ![ESP8266](https://img.shields.io/badge/NodeMCU_ESP8266-E7352C?style=flat-square&logo=espressif&logoColor=white)
