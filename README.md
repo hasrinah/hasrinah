@@ -2,7 +2,7 @@
 
 # Hi, I'm Hasrinah 👋
 
-**Software Development · Automation · System Engineering**
+**Software Development · Automation · System Engineering · IoT**
 
 I build and deploy web applications end to end: the interface, the API, the database and the server setup around them.
 
@@ -61,6 +61,28 @@ flowchart LR
 
 ---
 
+## 🏆 Award-Winning Project
+
+### Smart Visitor Management System for an Animal Garden
+*Final Year Project · IoT*
+
+An IoT system that counts visitors automatically and shows real-time crowd information, to help manage visitor flow.
+
+![Arduino](https://img.shields.io/badge/Arduino-00878F?style=flat-square&logo=arduino&logoColor=white)
+![ESP8266](https://img.shields.io/badge/NodeMCU_ESP8266-E7352C?style=flat-square&logo=espressif&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&logo=firebase&logoColor=white)
+
+- Built an IoT visitor-monitoring system with a NodeMCU ESP8266 and infrared sensors
+- Automated visitor counting, with real-time crowd information shown on LCD screens
+- Sent sensor data to Firebase over HTTP for real-time storage and retrieval
+- Designed for crowd monitoring and better visitor-flow management
+
+**Awards**
+- 🥇 **Most Innovative and Creative Award**, Engineering Science & Technology Exhibition 2025 (ESTE'25), MAHSA University
+- 🏅 **Fourth Place**, Malaysia Network Idea Competition 2024, Department of Communication Technology and Network, FSKTM, UPM
+
+---
+
 ## 📂 Public Projects
 
 | Project | Description | Stack |
@@ -80,6 +102,7 @@ flowchart LR
 | **Backend** | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) |
 | **Database** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) |
 | **DevOps & Infrastructure** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Docker Compose](https://img.shields.io/badge/Docker_Compose-2496ED?style=flat-square&logo=docker&logoColor=white) ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white) ![Apache](https://img.shields.io/badge/Apache-D22128?style=flat-square&logo=apache&logoColor=white) |
+| **IoT & Cloud** | ![Arduino](https://img.shields.io/badge/Arduino-00878F?style=flat-square&logo=arduino&logoColor=white) ![NodeMCU ESP8266](https://img.shields.io/badge/NodeMCU_ESP8266-E7352C?style=flat-square&logo=espressif&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&logo=firebase&logoColor=white) |
 | **Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white) |
 
 ---
